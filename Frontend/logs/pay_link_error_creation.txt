@@ -1,0 +1,80 @@
+2025-08-13T18:22:00.361Z - Error while creating a pay link
+ Message: Request failed with status code 404
+ Trace: AxiosError: Request failed with status code 404
+    at settle (file:///C:/proyecto_chido/node_modules/axios/lib/core/settle.js:19:12)
+    at IncomingMessage.handleStreamEnd (file:///C:/proyecto_chido/node_modules/axios/lib/adapters/http.js:599:11)
+    at IncomingMessage.emit (node:events:530:35)
+    at endReadableNT (node:internal/streams/readable:1698:12)
+    at process.processTicksAndRejections (node:internal/process/task_queues:90:21)
+    at Axios.request (file:///C:/proyecto_chido/node_modules/axios/lib/core/Axios.js:45:41)
+    at process.processTicksAndRejections (node:internal/process/task_queues:105:5)
+    at async Object.createPayLink (file:///C:/proyecto_chido/tools/pagos.js:14:27)
+    at async Object.manager (file:///C:/proyecto_chido/tools/manejador.js:241:17)
+    at async file:///C:/proyecto_chido/server.js:65:13
+
+2025-08-13T18:24:12.562Z - User: 5216182718760
+Error while creating a pay link
+ Message: Request failed with status code 404
+ Trace: AxiosError: Request failed with status code 404
+    at settle (file:///C:/proyecto_chido/node_modules/axios/lib/core/settle.js:19:12)
+    at IncomingMessage.handleStreamEnd (file:///C:/proyecto_chido/node_modules/axios/lib/adapters/http.js:599:11)
+    at IncomingMessage.emit (node:events:530:35)
+    at endReadableNT (node:internal/streams/readable:1698:12)
+    at process.processTicksAndRejections (node:internal/process/task_queues:90:21)
+    at Axios.request (file:///C:/proyecto_chido/node_modules/axios/lib/core/Axios.js:45:41)
+    at process.processTicksAndRejections (node:internal/process/task_queues:105:5)
+    at async Object.createPayLink (file:///C:/proyecto_chido/tools/pagos.js:14:27)
+    at async Object.manager (file:///C:/proyecto_chido/tools/manejador.js:240:17)
+    at async file:///C:/proyecto_chido/server.js:65:13
+
+2025-08-13T18:26:00.792Z - User: 5216182718760
+Error while creating a pay link
+ Data: <!DOCTYPE HTML PUBLIC "-//IETF//DTD HTML 2.0//EN">
+<html><head>
+<title>404 Not Found</title>
+</head><body>
+<h1>Not Found</h1>
+<p>The requested URL was not found on this server.</p>
+<hr>
+<address>Apache/2.4.58 (Win64) OpenSSL/3.1.3 PHP/8.2.12 Server at localhost Port 80</address>
+</body></html>
+
+Message: Request failed with status code 404
+ Trace: AxiosError: Request failed with status code 404
+    at settle (file:///C:/proyecto_chido/node_modules/axios/lib/core/settle.js:19:12)
+    at IncomingMessage.handleStreamEnd (file:///C:/proyecto_chido/node_modules/axios/lib/adapters/http.js:599:11)
+    at IncomingMessage.emit (node:events:530:35)
+    at endReadableNT (node:internal/streams/readable:1698:12)
+    at process.processTicksAndRejections (node:internal/process/task_queues:90:21)
+    at Axios.request (file:///C:/proyecto_chido/node_modules/axios/lib/core/Axios.js:45:41)
+    at process.processTicksAndRejections (node:internal/process/task_queues:105:5)
+    at async Object.createPayLink (file:///C:/proyecto_chido/tools/pagos.js:14:27)
+    at async Object.manager (file:///C:/proyecto_chido/tools/manejador.js:240:17)
+    at async file:///C:/proyecto_chido/server.js:65:13
+
+2025-08-13T18:27:29.905Z - User: 5216182718760
+Error while creating a pay link
+Data: <!DOCTYPE HTML PUBLIC "-//IETF//DTD HTML 2.0//EN">
+<html><head>
+<title>404 Not Found</title>
+</head><body>
+<h1>Not Found</h1>
+<p>The requested URL was not found on this server.</p>
+<hr>
+<address>Apache/2.4.58 (Win64) OpenSSL/3.1.3 PHP/8.2.12 Server at localhost Port 80</address>
+</body></html>
+
+Error: [object Object]
+Message: Request failed with status code 404
+ Trace: AxiosError: Request failed with status code 404
+    at settle (file:///C:/proyecto_chido/node_modules/axios/lib/core/settle.js:19:12)
+    at IncomingMessage.handleStreamEnd (file:///C:/proyecto_chido/node_modules/axios/lib/adapters/http.js:599:11)
+    at IncomingMessage.emit (node:events:530:35)
+    at endReadableNT (node:internal/streams/readable:1698:12)
+    at process.processTicksAndRejections (node:internal/process/task_queues:90:21)
+    at Axios.request (file:///C:/proyecto_chido/node_modules/axios/lib/core/Axios.js:45:41)
+    at process.processTicksAndRejections (node:internal/process/task_queues:105:5)
+    at async Object.createPayLink (file:///C:/proyecto_chido/tools/pagos.js:14:27)
+    at async Object.manager (file:///C:/proyecto_chido/tools/manejador.js:240:17)
+    at async file:///C:/proyecto_chido/server.js:65:13
+

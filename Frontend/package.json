@@ -1,0 +1,24 @@
+{
+  "name": "proyecto_chido",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "axios": "^1.7.8",
+    "body-parser": "^1.20.3",
+    "cors": "^2.8.5",
+    "dotenv": "^17.2.1",
+    "express": "^4.21.2",
+    "mssql": "^11.0.1",
+    "ngrok": "^5.0.0-beta.2"
+  },
+  "type": "module",
+  "devDependencies": {},
+  "description": ""
+}

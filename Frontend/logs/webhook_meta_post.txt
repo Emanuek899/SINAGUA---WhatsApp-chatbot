@@ -1,0 +1,1890 @@
+2025-08-13T18:19:12.492Z - Webhook meta post error: TypeError: Cannot read properties of undefined (reading 'from')
+{
+  "object": "whatsapp_business_account",
+  "entry": [
+    {
+      "id": "757160460093090",
+      "changes": [
+        {
+          "value": {
+            "messaging_product": "whatsapp",
+            "metadata": {
+              "display_phone_number": "15556663692",
+              "phone_number_id": "688394194362541"
+            },
+            "statuses": [
+              {
+                "id": "wamid.HBgNNTIxNjE4MjcxODc2MBUCABEYEjI2Rjk2NjY4ODBDRkMwMDMzRAA=",
+                "status": "sent",
+                "timestamp": "1755109152",
+                "recipient_id": "5216182718760",
+                "conversation": {
+                  "id": "416741d69fffe2f5af9ea2b954857377",
+                  "expiration_timestamp": "1755109152",
+                  "origin": {
+                    "type": "utility"
+                  }
+                },
+                "pricing": {
+                  "billable": false,
+                  "pricing_model": "PMP",
+                  "category": "utility",
+                  "type": "free_customer_service"
+                }
+              }
+            ]
+          },
+          "field": "messages"
+        }
+      ]
+    }
+  ]
+}2025-08-13T18:19:13.188Z - Webhook meta post error: TypeError: Cannot read properties of undefined (reading 'from')
+{
+  "object": "whatsapp_business_account",
+  "entry": [
+    {
+      "id": "757160460093090",
+      "changes": [
+        {
+          "value": {
+            "messaging_product": "whatsapp",
+            "metadata": {
+              "display_phone_number": "15556663692",
+              "phone_number_id": "688394194362541"
+            },
+            "statuses": [
+              {
+                "id": "wamid.HBgNNTIxNjE4MjcxODc2MBUCABEYEjI2Rjk2NjY4ODBDRkMwMDMzRAA=",
+                "status": "read",
+                "timestamp": "1755109153",
+                "recipient_id": "5216182718760",
+                "conversation": {
+                  "id": "416741d69fffe2f5af9ea2b954857377",
+                  "origin": {
+                    "type": "utility"
+                  }
+                },
+                "pricing": {
+                  "billable": false,
+                  "pricing_model": "PMP",
+                  "category": "utility",
+                  "type": "free_customer_service"
+                }
+              }
+            ]
+          },
+          "field": "messages"
+        }
+      ]
+    }
+  ]
+}2025-08-13T18:19:26.450Z - Webhook meta post error: TypeError: Cannot read properties of undefined (reading 'from')
+{
+  "object": "whatsapp_business_account",
+  "entry": [
+    {
+      "id": "757160460093090",
+      "changes": [
+        {
+          "value": {
+            "messaging_product": "whatsapp",
+            "metadata": {
+              "display_phone_number": "15556663692",
+              "phone_number_id": "688394194362541"
+            },
+            "statuses": [
+              {
+                "id": "wamid.HBgNNTIxNjE4MjcxODc2MBUCABEYEkFGQTc3NTk1MzIyM0FFQTNFMQA=",
+                "status": "sent",
+                "timestamp": "1755109166",
+                "recipient_id": "5216182718760",
+                "conversation": {
+                  "id": "48a8c9b9dd9567c53abe6890ea6594a4",
+                  "expiration_timestamp": "1755109166",
+                  "origin": {
+                    "type": "marketing"
+                  }
+                },
+                "pricing": {
+                  "billable": true,
+                  "pricing_model": "PMP",
+                  "category": "marketing",
+                  "type": "regular"
+                }
+              }
+            ]
+          },
+          "field": "messages"
+        }
+      ]
+    }
+  ]
+}2025-08-13T18:19:26.593Z - Webhook meta post error: TypeError: Cannot read properties of undefined (reading 'from')
+{
+  "object": "whatsapp_business_account",
+  "entry": [
+    {
+      "id": "757160460093090",
+      "changes": [
+        {
+          "value": {
+            "messaging_product": "whatsapp",
+            "metadata": {
+              "display_phone_number": "15556663692",
+              "phone_number_id": "688394194362541"
+            },
+            "statuses": [
+              {
+                "id": "wamid.HBgNNTIxNjE4MjcxODc2MBUCABEYEkFGQTc3NTk1MzIyM0FFQTNFMQA=",
+                "status": "read",
+                "timestamp": "1755109166",
+                "recipient_id": "5216182718760",
+                "conversation": {
+                  "id": "48a8c9b9dd9567c53abe6890ea6594a4",
+                  "origin": {
+                    "type": "marketing"
+                  }
+                },
+                "pricing": {
+                  "billable": true,
+                  "pricing_model": "PMP",
+                  "category": "marketing",
+                  "type": "regular"
+                }
+              }
+            ]
+          },
+          "field": "messages"
+        }
+      ]
+    }
+  ]
+}2025-08-13T18:19:42.681Z - Webhook meta post error: TypeError: Cannot read properties of undefined (reading 'from')
+{
+  "object": "whatsapp_business_account",
+  "entry": [
+    {
+      "id": "757160460093090",
+      "changes": [
+        {
+          "value": {
+            "messaging_product": "whatsapp",
+            "metadata": {
+              "display_phone_number": "15556663692",
+              "phone_number_id": "688394194362541"
+            },
+            "statuses": [
+              {
+                "id": "wamid.HBgNNTIxNjE4MjcxODc2MBUCABEYEjJFOTA5QkEwQ0UzODMxRjNGQQA=",
+                "status": "sent",
+                "timestamp": "1755109182",
+                "recipient_id": "5216182718760",
+                "conversation": {
+                  "id": "feed6fd3d3a8b8cb145feaa2bab2116c",
+                  "expiration_timestamp": "1755109182",
+                  "origin": {
+                    "type": "marketing"
+                  }
+                },
+                "pricing": {
+                  "billable": true,
+                  "pricing_model": "PMP",
+                  "category": "marketing",
+                  "type": "regular"
+                }
+              }
+            ]
+          },
+          "field": "messages"
+        }
+      ]
+    }
+  ]
+}2025-08-13T18:19:42.974Z - Webhook meta post error: TypeError: Cannot read properties of undefined (reading 'from')
+{
+  "object": "whatsapp_business_account",
+  "entry": [
+    {
+      "id": "757160460093090",
+      "changes": [
+        {
+          "value": {
+            "messaging_product": "whatsapp",
+            "metadata": {
+              "display_phone_number": "15556663692",
+              "phone_number_id": "688394194362541"
+            },
+            "statuses": [
+              {
+                "id": "wamid.HBgNNTIxNjE4MjcxODc2MBUCABEYEjJFOTA5QkEwQ0UzODMxRjNGQQA=",
+                "status": "read",
+                "timestamp": "1755109183",
+                "recipient_id": "5216182718760",
+                "conversation": {
+                  "id": "feed6fd3d3a8b8cb145feaa2bab2116c",
+                  "origin": {
+                    "type": "marketing"
+                  }
+                },
+                "pricing": {
+                  "billable": true,
+                  "pricing_model": "PMP",
+                  "category": "marketing",
+                  "type": "regular"
+                }
+              }
+            ]
+          },
+          "field": "messages"
+        }
+      ]
+    }
+  ]
+}2025-08-13T18:20:01.734Z - Webhook meta post error: TypeError: Cannot read properties of undefined (reading 'from')
+{
+  "object": "whatsapp_business_account",
+  "entry": [
+    {
+      "id": "757160460093090",
+      "changes": [
+        {
+          "value": {
+            "messaging_product": "whatsapp",
+            "metadata": {
+              "display_phone_number": "15556663692",
+              "phone_number_id": "688394194362541"
+            },
+            "statuses": [
+              {
+                "id": "wamid.HBgNNTIxNjE4MjcxODc2MBUCABEYEjYwM0E3OUFCNEIyRTZFRDhDRgA=",
+                "status": "sent",
+                "timestamp": "1755109201",
+                "recipient_id": "5216182718760",
+                "conversation": {
+                  "id": "74e508afb07d3749a44d338bfc87d72c",
+                  "expiration_timestamp": "1755109201",
+                  "origin": {
+                    "type": "utility"
+                  }
+                },
+                "pricing": {
+                  "billable": false,
+                  "pricing_model": "PMP",
+                  "category": "utility",
+                  "type": "free_customer_service"
+                }
+              }
+            ]
+          },
+          "field": "messages"
+        }
+      ]
+    }
+  ]
+}2025-08-13T18:20:01.950Z - Webhook meta post error: TypeError: Cannot read properties of undefined (reading 'from')
+{
+  "object": "whatsapp_business_account",
+  "entry": [
+    {
+      "id": "757160460093090",
+      "changes": [
+        {
+          "value": {
+            "messaging_product": "whatsapp",
+            "metadata": {
+              "display_phone_number": "15556663692",
+              "phone_number_id": "688394194362541"
+            },
+            "statuses": [
+              {
+                "id": "wamid.HBgNNTIxNjE4MjcxODc2MBUCABEYEjYwM0E3OUFCNEIyRTZFRDhDRgA=",
+                "status": "read",
+                "timestamp": "1755109202",
+                "recipient_id": "5216182718760",
+                "conversation": {
+                  "id": "74e508afb07d3749a44d338bfc87d72c",
+                  "origin": {
+                    "type": "utility"
+                  }
+                },
+                "pricing": {
+                  "billable": false,
+                  "pricing_model": "PMP",
+                  "category": "utility",
+                  "type": "free_customer_service"
+                }
+              }
+            ]
+          },
+          "field": "messages"
+        }
+      ]
+    }
+  ]
+}2025-08-13T18:20:17.955Z - Webhook meta post error: TypeError: Cannot read properties of undefined (reading 'from')
+{
+  "object": "whatsapp_business_account",
+  "entry": [
+    {
+      "id": "757160460093090",
+      "changes": [
+        {
+          "value": {
+            "messaging_product": "whatsapp",
+            "metadata": {
+              "display_phone_number": "15556663692",
+              "phone_number_id": "688394194362541"
+            },
+            "statuses": [
+              {
+                "id": "wamid.HBgNNTIxNjE4MjcxODc2MBUCABEYEjA2ODAwQ0Y1OTBFRTIxRkNGQQA=",
+                "status": "sent",
+                "timestamp": "1755108906",
+                "recipient_id": "5216182718760",
+                "conversation": {
+                  "id": "81fdca6e6aa16ee126a5c067221f3d7e",
+                  "expiration_timestamp": "1755108906",
+                  "origin": {
+                    "type": "marketing"
+                  }
+                },
+                "pricing": {
+                  "billable": true,
+                  "pricing_model": "PMP",
+                  "category": "marketing",
+                  "type": "regular"
+                }
+              }
+            ]
+          },
+          "field": "messages"
+        }
+      ]
+    }
+  ]
+}2025-08-13T18:20:47.443Z - Webhook meta post error: TypeError: Cannot read properties of undefined (reading 'from')
+{
+  "object": "whatsapp_business_account",
+  "entry": [
+    {
+      "id": "757160460093090",
+      "changes": [
+        {
+          "value": {
+            "messaging_product": "whatsapp",
+            "metadata": {
+              "display_phone_number": "15556663692",
+              "phone_number_id": "688394194362541"
+            },
+            "statuses": [
+              {
+                "id": "wamid.HBgNNTIxNjE4MjcxODc2MBUCABEYEjc4NUVBMzhEODExN0Y1OUNEOQA=",
+                "status": "sent",
+                "timestamp": "1755109247",
+                "recipient_id": "5216182718760",
+                "conversation": {
+                  "id": "3bd717329e64cbb88860ff771a2dbdc1",
+                  "expiration_timestamp": "1755109247",
+                  "origin": {
+                    "type": "marketing"
+                  }
+                },
+                "pricing": {
+                  "billable": true,
+                  "pricing_model": "PMP",
+                  "category": "marketing",
+                  "type": "regular"
+                }
+              }
+            ]
+          },
+          "field": "messages"
+        }
+      ]
+    }
+  ]
+}2025-08-13T18:20:47.909Z - Webhook meta post error: TypeError: Cannot read properties of undefined (reading 'from')
+{
+  "object": "whatsapp_business_account",
+  "entry": [
+    {
+      "id": "757160460093090",
+      "changes": [
+        {
+          "value": {
+            "messaging_product": "whatsapp",
+            "metadata": {
+              "display_phone_number": "15556663692",
+              "phone_number_id": "688394194362541"
+            },
+            "statuses": [
+              {
+                "id": "wamid.HBgNNTIxNjE4MjcxODc2MBUCABEYEjc4NUVBMzhEODExN0Y1OUNEOQA=",
+                "status": "read",
+                "timestamp": "1755109248",
+                "recipient_id": "5216182718760",
+                "conversation": {
+                  "id": "3bd717329e64cbb88860ff771a2dbdc1",
+                  "origin": {
+                    "type": "marketing"
+                  }
+                },
+                "pricing": {
+                  "billable": true,
+                  "pricing_model": "PMP",
+                  "category": "marketing",
+                  "type": "regular"
+                }
+              }
+            ]
+          },
+          "field": "messages"
+        }
+      ]
+    }
+  ]
+}2025-08-13T18:20:53.655Z - Webhook meta post error: TypeError: Cannot read properties of undefined (reading 'from')
+{
+  "object": "whatsapp_business_account",
+  "entry": [
+    {
+      "id": "757160460093090",
+      "changes": [
+        {
+          "value": {
+            "messaging_product": "whatsapp",
+            "metadata": {
+              "display_phone_number": "15556663692",
+              "phone_number_id": "688394194362541"
+            },
+            "statuses": [
+              {
+                "id": "wamid.HBgNNTIxNjE4MjcxODc2MBUCABEYEkZFREJGMkI5MUU3N0NGREY4OQA=",
+                "status": "sent",
+                "timestamp": "1755109253",
+                "recipient_id": "5216182718760",
+                "conversation": {
+                  "id": "4c4da48bbd3645075556d6dcdd33d5f7",
+                  "expiration_timestamp": "1755109253",
+                  "origin": {
+                    "type": "marketing"
+                  }
+                },
+                "pricing": {
+                  "billable": true,
+                  "pricing_model": "PMP",
+                  "category": "marketing",
+                  "type": "regular"
+                }
+              }
+            ]
+          },
+          "field": "messages"
+        }
+      ]
+    }
+  ]
+}2025-08-13T18:20:53.854Z - Webhook meta post error: TypeError: Cannot read properties of undefined (reading 'from')
+{
+  "object": "whatsapp_business_account",
+  "entry": [
+    {
+      "id": "757160460093090",
+      "changes": [
+        {
+          "value": {
+            "messaging_product": "whatsapp",
+            "metadata": {
+              "display_phone_number": "15556663692",
+              "phone_number_id": "688394194362541"
+            },
+            "statuses": [
+              {
+                "id": "wamid.HBgNNTIxNjE4MjcxODc2MBUCABEYEkZFREJGMkI5MUU3N0NGREY4OQA=",
+                "status": "read",
+                "timestamp": "1755109254",
+                "recipient_id": "5216182718760",
+                "conversation": {
+                  "id": "4c4da48bbd3645075556d6dcdd33d5f7",
+                  "origin": {
+                    "type": "marketing"
+                  }
+                },
+                "pricing": {
+                  "billable": true,
+                  "pricing_model": "PMP",
+                  "category": "marketing",
+                  "type": "regular"
+                }
+              }
+            ]
+          },
+          "field": "messages"
+        }
+      ]
+    }
+  ]
+}2025-08-13T18:20:57.963Z - Webhook meta post error: TypeError: Cannot read properties of undefined (reading 'from')
+{
+  "object": "whatsapp_business_account",
+  "entry": [
+    {
+      "id": "757160460093090",
+      "changes": [
+        {
+          "value": {
+            "messaging_product": "whatsapp",
+            "metadata": {
+              "display_phone_number": "15556663692",
+              "phone_number_id": "688394194362541"
+            },
+            "statuses": [
+              {
+                "id": "wamid.HBgNNTIxNjE4MjcxODc2MBUCABEYEkE1NzU4NUMwNEZEMDBFM0U3OAA=",
+                "status": "sent",
+                "timestamp": "1755109258",
+                "recipient_id": "5216182718760",
+                "conversation": {
+                  "id": "c97af02160dccbe2e74e6c5ad4393f4a",
+                  "expiration_timestamp": "1755109258",
+                  "origin": {
+                    "type": "utility"
+                  }
+                },
+                "pricing": {
+                  "billable": false,
+                  "pricing_model": "PMP",
+                  "category": "utility",
+                  "type": "free_customer_service"
+                }
+              }
+            ]
+          },
+          "field": "messages"
+        }
+      ]
+    }
+  ]
+}2025-08-13T18:20:58.143Z - Webhook meta post error: TypeError: Cannot read properties of undefined (reading 'from')
+{
+  "object": "whatsapp_business_account",
+  "entry": [
+    {
+      "id": "757160460093090",
+      "changes": [
+        {
+          "value": {
+            "messaging_product": "whatsapp",
+            "metadata": {
+              "display_phone_number": "15556663692",
+              "phone_number_id": "688394194362541"
+            },
+            "statuses": [
+              {
+                "id": "wamid.HBgNNTIxNjE4MjcxODc2MBUCABEYEkE1NzU4NUMwNEZEMDBFM0U3OAA=",
+                "status": "read",
+                "timestamp": "1755109258",
+                "recipient_id": "5216182718760",
+                "conversation": {
+                  "id": "c97af02160dccbe2e74e6c5ad4393f4a",
+                  "origin": {
+                    "type": "utility"
+                  }
+                },
+                "pricing": {
+                  "billable": false,
+                  "pricing_model": "PMP",
+                  "category": "utility",
+                  "type": "free_customer_service"
+                }
+              }
+            ]
+          },
+          "field": "messages"
+        }
+      ]
+    }
+  ]
+}2025-08-13T18:21:12.166Z - Webhook meta post error: TypeError: Cannot read properties of undefined (reading 'from')
+{
+  "object": "whatsapp_business_account",
+  "entry": [
+    {
+      "id": "757160460093090",
+      "changes": [
+        {
+          "value": {
+            "messaging_product": "whatsapp",
+            "metadata": {
+              "display_phone_number": "15556663692",
+              "phone_number_id": "688394194362541"
+            },
+            "statuses": [
+              {
+                "id": "wamid.HBgNNTIxNjE4MjcxODc2MBUCABEYEjNFRDQyQzhBMzYxNDMwNTY5NgA=",
+                "status": "sent",
+                "timestamp": "1755109272",
+                "recipient_id": "5216182718760",
+                "conversation": {
+                  "id": "36ee783f5f6542cea303cff9b3f297e1",
+                  "expiration_timestamp": "1755109272",
+                  "origin": {
+                    "type": "marketing"
+                  }
+                },
+                "pricing": {
+                  "billable": true,
+                  "pricing_model": "PMP",
+                  "category": "marketing",
+                  "type": "regular"
+                }
+              }
+            ]
+          },
+          "field": "messages"
+        }
+      ]
+    }
+  ]
+}2025-08-13T18:21:12.548Z - Webhook meta post error: TypeError: Cannot read properties of undefined (reading 'from')
+{
+  "object": "whatsapp_business_account",
+  "entry": [
+    {
+      "id": "757160460093090",
+      "changes": [
+        {
+          "value": {
+            "messaging_product": "whatsapp",
+            "metadata": {
+              "display_phone_number": "15556663692",
+              "phone_number_id": "688394194362541"
+            },
+            "statuses": [
+              {
+                "id": "wamid.HBgNNTIxNjE4MjcxODc2MBUCABEYEjNFRDQyQzhBMzYxNDMwNTY5NgA=",
+                "status": "read",
+                "timestamp": "1755109272",
+                "recipient_id": "5216182718760",
+                "conversation": {
+                  "id": "36ee783f5f6542cea303cff9b3f297e1",
+                  "origin": {
+                    "type": "marketing"
+                  }
+                },
+                "pricing": {
+                  "billable": true,
+                  "pricing_model": "PMP",
+                  "category": "marketing",
+                  "type": "regular"
+                }
+              }
+            ]
+          },
+          "field": "messages"
+        }
+      ]
+    }
+  ]
+}2025-08-13T18:21:24.165Z - Webhook meta post error: TypeError: Cannot read properties of undefined (reading 'from')
+{
+  "object": "whatsapp_business_account",
+  "entry": [
+    {
+      "id": "757160460093090",
+      "changes": [
+        {
+          "value": {
+            "messaging_product": "whatsapp",
+            "metadata": {
+              "display_phone_number": "15556663692",
+              "phone_number_id": "688394194362541"
+            },
+            "statuses": [
+              {
+                "id": "wamid.HBgNNTIxNjE4MjcxODc2MBUCABEYEjY1NjAxODJGQTY5NThFREVGMAA=",
+                "status": "sent",
+                "timestamp": "1755109284",
+                "recipient_id": "5216182718760",
+                "conversation": {
+                  "id": "4d8b925b7a956b6570cd21c16cd561a4",
+                  "expiration_timestamp": "1755109284",
+                  "origin": {
+                    "type": "utility"
+                  }
+                },
+                "pricing": {
+                  "billable": false,
+                  "pricing_model": "PMP",
+                  "category": "utility",
+                  "type": "free_customer_service"
+                }
+              }
+            ]
+          },
+          "field": "messages"
+        }
+      ]
+    }
+  ]
+}2025-08-13T18:21:24.645Z - Webhook meta post error: TypeError: Cannot read properties of undefined (reading 'from')
+{
+  "object": "whatsapp_business_account",
+  "entry": [
+    {
+      "id": "757160460093090",
+      "changes": [
+        {
+          "value": {
+            "messaging_product": "whatsapp",
+            "metadata": {
+              "display_phone_number": "15556663692",
+              "phone_number_id": "688394194362541"
+            },
+            "statuses": [
+              {
+                "id": "wamid.HBgNNTIxNjE4MjcxODc2MBUCABEYEjY1NjAxODJGQTY5NThFREVGMAA=",
+                "status": "read",
+                "timestamp": "1755109284",
+                "recipient_id": "5216182718760",
+                "conversation": {
+                  "id": "4d8b925b7a956b6570cd21c16cd561a4",
+                  "origin": {
+                    "type": "utility"
+                  }
+                },
+                "pricing": {
+                  "billable": false,
+                  "pricing_model": "PMP",
+                  "category": "utility",
+                  "type": "free_customer_service"
+                }
+              }
+            ]
+          },
+          "field": "messages"
+        }
+      ]
+    }
+  ]
+}2025-08-13T18:21:36.874Z - Webhook meta post error: TypeError: Cannot read properties of undefined (reading 'from')
+{
+  "object": "whatsapp_business_account",
+  "entry": [
+    {
+      "id": "757160460093090",
+      "changes": [
+        {
+          "value": {
+            "messaging_product": "whatsapp",
+            "metadata": {
+              "display_phone_number": "15556663692",
+              "phone_number_id": "688394194362541"
+            },
+            "statuses": [
+              {
+                "id": "wamid.HBgNNTIxNjE4MjcxODc2MBUCABEYEjMyQTZDNzkxMzlFQzE3RDgzRgA=",
+                "status": "sent",
+                "timestamp": "1755109296",
+                "recipient_id": "5216182718760",
+                "conversation": {
+                  "id": "14e9311ac8a9c4dacff323037ba0f889",
+                  "expiration_timestamp": "1755109296",
+                  "origin": {
+                    "type": "marketing"
+                  }
+                },
+                "pricing": {
+                  "billable": true,
+                  "pricing_model": "PMP",
+                  "category": "marketing",
+                  "type": "regular"
+                }
+              }
+            ]
+          },
+          "field": "messages"
+        }
+      ]
+    }
+  ]
+}2025-08-13T18:21:37.088Z - Webhook meta post error: TypeError: Cannot read properties of undefined (reading 'from')
+{
+  "object": "whatsapp_business_account",
+  "entry": [
+    {
+      "id": "757160460093090",
+      "changes": [
+        {
+          "value": {
+            "messaging_product": "whatsapp",
+            "metadata": {
+              "display_phone_number": "15556663692",
+              "phone_number_id": "688394194362541"
+            },
+            "statuses": [
+              {
+                "id": "wamid.HBgNNTIxNjE4MjcxODc2MBUCABEYEjMyQTZDNzkxMzlFQzE3RDgzRgA=",
+                "status": "read",
+                "timestamp": "1755109297",
+                "recipient_id": "5216182718760",
+                "conversation": {
+                  "id": "14e9311ac8a9c4dacff323037ba0f889",
+                  "origin": {
+                    "type": "marketing"
+                  }
+                },
+                "pricing": {
+                  "billable": true,
+                  "pricing_model": "PMP",
+                  "category": "marketing",
+                  "type": "regular"
+                }
+              }
+            ]
+          },
+          "field": "messages"
+        }
+      ]
+    }
+  ]
+}2025-08-13T18:21:48.785Z - Webhook meta post error: TypeError: Cannot read properties of undefined (reading 'from')
+{
+  "object": "whatsapp_business_account",
+  "entry": [
+    {
+      "id": "757160460093090",
+      "changes": [
+        {
+          "value": {
+            "messaging_product": "whatsapp",
+            "metadata": {
+              "display_phone_number": "15556663692",
+              "phone_number_id": "688394194362541"
+            },
+            "statuses": [
+              {
+                "id": "wamid.HBgNNTIxNjE4MjcxODc2MBUCABEYEjA4MzgwOEY3QjU2Rjk5MzBEMAA=",
+                "status": "sent",
+                "timestamp": "1755109308",
+                "recipient_id": "5216182718760",
+                "conversation": {
+                  "id": "a6c8d19542c5d10f59c4a5b6886e5b89",
+                  "expiration_timestamp": "1755109308",
+                  "origin": {
+                    "type": "utility"
+                  }
+                },
+                "pricing": {
+                  "billable": false,
+                  "pricing_model": "PMP",
+                  "category": "utility",
+                  "type": "free_customer_service"
+                }
+              }
+            ]
+          },
+          "field": "messages"
+        }
+      ]
+    }
+  ]
+}2025-08-13T18:21:49.003Z - Webhook meta post error: TypeError: Cannot read properties of undefined (reading 'from')
+{
+  "object": "whatsapp_business_account",
+  "entry": [
+    {
+      "id": "757160460093090",
+      "changes": [
+        {
+          "value": {
+            "messaging_product": "whatsapp",
+            "metadata": {
+              "display_phone_number": "15556663692",
+              "phone_number_id": "688394194362541"
+            },
+            "statuses": [
+              {
+                "id": "wamid.HBgNNTIxNjE4MjcxODc2MBUCABEYEjA4MzgwOEY3QjU2Rjk5MzBEMAA=",
+                "status": "read",
+                "timestamp": "1755109309",
+                "recipient_id": "5216182718760",
+                "conversation": {
+                  "id": "a6c8d19542c5d10f59c4a5b6886e5b89",
+                  "origin": {
+                    "type": "utility"
+                  }
+                },
+                "pricing": {
+                  "billable": false,
+                  "pricing_model": "PMP",
+                  "category": "utility",
+                  "type": "free_customer_service"
+                }
+              }
+            ]
+          },
+          "field": "messages"
+        }
+      ]
+    }
+  ]
+}2025-08-13T18:22:00.369Z - Webhook meta post error: TypeError: Cannot read properties of undefined (reading 'link')
+{
+  "object": "whatsapp_business_account",
+  "entry": [
+    {
+      "id": "757160460093090",
+      "changes": [
+        {
+          "value": {
+            "messaging_product": "whatsapp",
+            "metadata": {
+              "display_phone_number": "15556663692",
+              "phone_number_id": "688394194362541"
+            },
+            "contacts": [
+              {
+                "profile": {
+                  "name": "Emanuel"
+                },
+                "wa_id": "5216182718760"
+              }
+            ],
+            "messages": [
+              {
+                "from": "5216182718760",
+                "id": "wamid.HBgNNTIxNjE4MjcxODc2MBUCABIYIDMzOTM1RkM4OTE2NTcxNjc0REMyQzA5MTdCMjNDOTQ3AA==",
+                "timestamp": "1755109320",
+                "text": {
+                  "body": "1637263546372635"
+                },
+                "type": "text"
+              }
+            ]
+          },
+          "field": "messages"
+        }
+      ]
+    }
+  ]
+}2025-08-13T18:22:34.446Z - Webhook meta post error: TypeError: Cannot read properties of undefined (reading 'from')
+{
+  "object": "whatsapp_business_account",
+  "entry": [
+    {
+      "id": "757160460093090",
+      "changes": [
+        {
+          "value": {
+            "messaging_product": "whatsapp",
+            "metadata": {
+              "display_phone_number": "15556663692",
+              "phone_number_id": "688394194362541"
+            },
+            "statuses": [
+              {
+                "id": "wamid.HBgNNTIxNjE4MjcxODc2MBUCABEYEjIyN0MxNDM1RUJFRDgyNjdGMQA=",
+                "status": "read",
+                "timestamp": "1755108906",
+                "recipient_id": "5216182718760",
+                "conversation": {
+                  "id": "8d3ce75db905145f125137c3991b6356",
+                  "origin": {
+                    "type": "marketing"
+                  }
+                },
+                "pricing": {
+                  "billable": true,
+                  "pricing_model": "PMP",
+                  "category": "marketing",
+                  "type": "regular"
+                }
+              }
+            ]
+          },
+          "field": "messages"
+        }
+      ]
+    }
+  ]
+}2025-08-13T18:24:12.565Z - Webhook meta post error: TypeError: Cannot read properties of undefined (reading 'link')
+{
+  "object": "whatsapp_business_account",
+  "entry": [
+    {
+      "id": "757160460093090",
+      "changes": [
+        {
+          "value": {
+            "messaging_product": "whatsapp",
+            "metadata": {
+              "display_phone_number": "15556663692",
+              "phone_number_id": "688394194362541"
+            },
+            "contacts": [
+              {
+                "profile": {
+                  "name": "Emanuel"
+                },
+                "wa_id": "5216182718760"
+              }
+            ],
+            "messages": [
+              {
+                "from": "5216182718760",
+                "id": "wamid.HBgNNTIxNjE4MjcxODc2MBUCABIYIEMwQ0Q1NENCNjkyNTdFNUJBODVBNkQ5NUQzNUNFMTAyAA==",
+                "timestamp": "1755109452",
+                "text": {
+                  "body": "1637263546372635"
+                },
+                "type": "text"
+              }
+            ]
+          },
+          "field": "messages"
+        }
+      ]
+    }
+  ]
+}2025-08-13T18:25:54.119Z - Webhook meta post error: TypeError: Cannot read properties of undefined (reading 'from')
+{
+  "object": "whatsapp_business_account",
+  "entry": [
+    {
+      "id": "757160460093090",
+      "changes": [
+        {
+          "value": {
+            "messaging_product": "whatsapp",
+            "metadata": {
+              "display_phone_number": "15556663692",
+              "phone_number_id": "688394194362541"
+            },
+            "statuses": [
+              {
+                "id": "wamid.HBgNNTIxNjE4MjcxODc2MBUCABEYEjA2ODAwQ0Y1OTBFRTIxRkNGQQA=",
+                "status": "sent",
+                "timestamp": "1755108906",
+                "recipient_id": "5216182718760",
+                "conversation": {
+                  "id": "81fdca6e6aa16ee126a5c067221f3d7e",
+                  "expiration_timestamp": "1755108906",
+                  "origin": {
+                    "type": "marketing"
+                  }
+                },
+                "pricing": {
+                  "billable": true,
+                  "pricing_model": "PMP",
+                  "category": "marketing",
+                  "type": "regular"
+                }
+              }
+            ]
+          },
+          "field": "messages"
+        }
+      ]
+    }
+  ]
+}2025-08-13T18:25:54.176Z - Webhook meta post error: TypeError: Cannot read properties of undefined (reading 'from')
+{
+  "object": "whatsapp_business_account",
+  "entry": [
+    {
+      "id": "757160460093090",
+      "changes": [
+        {
+          "value": {
+            "messaging_product": "whatsapp",
+            "metadata": {
+              "display_phone_number": "15556663692",
+              "phone_number_id": "688394194362541"
+            },
+            "statuses": [
+              {
+                "id": "wamid.HBgNNTIxNjE4MjcxODc2MBUCABEYEjA2ODAwQ0Y1OTBFRTIxRkNGQQA=",
+                "status": "read",
+                "timestamp": "1755108907",
+                "recipient_id": "5216182718760",
+                "conversation": {
+                  "id": "81fdca6e6aa16ee126a5c067221f3d7e",
+                  "origin": {
+                    "type": "marketing"
+                  }
+                },
+                "pricing": {
+                  "billable": true,
+                  "pricing_model": "PMP",
+                  "category": "marketing",
+                  "type": "regular"
+                }
+              }
+            ]
+          },
+          "field": "messages"
+        }
+      ]
+    }
+  ]
+}2025-08-13T18:25:54.187Z - Webhook meta post error: TypeError: Cannot read properties of undefined (reading 'from')
+{
+  "object": "whatsapp_business_account",
+  "entry": [
+    {
+      "id": "757160460093090",
+      "changes": [
+        {
+          "value": {
+            "messaging_product": "whatsapp",
+            "metadata": {
+              "display_phone_number": "15556663692",
+              "phone_number_id": "688394194362541"
+            },
+            "statuses": [
+              {
+                "id": "wamid.HBgNNTIxNjE4MjcxODc2MBUCABEYEjA2ODAwQ0Y1OTBFRTIxRkNGQQA=",
+                "status": "read",
+                "timestamp": "1755108907",
+                "recipient_id": "5216182718760",
+                "conversation": {
+                  "id": "81fdca6e6aa16ee126a5c067221f3d7e",
+                  "origin": {
+                    "type": "marketing"
+                  }
+                },
+                "pricing": {
+                  "billable": true,
+                  "pricing_model": "PMP",
+                  "category": "marketing",
+                  "type": "regular"
+                }
+              }
+            ]
+          },
+          "field": "messages"
+        }
+      ]
+    }
+  ]
+}2025-08-13T18:26:00.795Z - Webhook meta post error: TypeError: Cannot read properties of undefined (reading 'link')
+{
+  "object": "whatsapp_business_account",
+  "entry": [
+    {
+      "id": "757160460093090",
+      "changes": [
+        {
+          "value": {
+            "messaging_product": "whatsapp",
+            "metadata": {
+              "display_phone_number": "15556663692",
+              "phone_number_id": "688394194362541"
+            },
+            "contacts": [
+              {
+                "profile": {
+                  "name": "Emanuel"
+                },
+                "wa_id": "5216182718760"
+              }
+            ],
+            "messages": [
+              {
+                "from": "5216182718760",
+                "id": "wamid.HBgNNTIxNjE4MjcxODc2MBUCABIYIDkxMzZBMUQ0NDE3QTZDMDNENTlGMjQxRjQwNzk2RjAxAA==",
+                "timestamp": "1755109560",
+                "text": {
+                  "body": "1637263546372635"
+                },
+                "type": "text"
+              }
+            ]
+          },
+          "field": "messages"
+        }
+      ]
+    }
+  ]
+}2025-08-13T18:27:17.117Z - Webhook meta post error: TypeError: Cannot read properties of undefined (reading 'from')
+{
+  "object": "whatsapp_business_account",
+  "entry": [
+    {
+      "id": "757160460093090",
+      "changes": [
+        {
+          "value": {
+            "messaging_product": "whatsapp",
+            "metadata": {
+              "display_phone_number": "15556663692",
+              "phone_number_id": "688394194362541"
+            },
+            "statuses": [
+              {
+                "id": "wamid.HBgNNTIxNjE4MjcxODc2MBUCABEYEjA2ODAwQ0Y1OTBFRTIxRkNGQQA=",
+                "status": "read",
+                "timestamp": "1755108907",
+                "recipient_id": "5216182718760",
+                "conversation": {
+                  "id": "81fdca6e6aa16ee126a5c067221f3d7e",
+                  "origin": {
+                    "type": "marketing"
+                  }
+                },
+                "pricing": {
+                  "billable": true,
+                  "pricing_model": "PMP",
+                  "category": "marketing",
+                  "type": "regular"
+                }
+              }
+            ]
+          },
+          "field": "messages"
+        }
+      ]
+    }
+  ]
+}2025-08-13T18:27:29.908Z - Webhook meta post error: TypeError: Cannot read properties of undefined (reading 'link')
+{
+  "object": "whatsapp_business_account",
+  "entry": [
+    {
+      "id": "757160460093090",
+      "changes": [
+        {
+          "value": {
+            "messaging_product": "whatsapp",
+            "metadata": {
+              "display_phone_number": "15556663692",
+              "phone_number_id": "688394194362541"
+            },
+            "contacts": [
+              {
+                "profile": {
+                  "name": "Emanuel"
+                },
+                "wa_id": "5216182718760"
+              }
+            ],
+            "messages": [
+              {
+                "from": "5216182718760",
+                "id": "wamid.HBgNNTIxNjE4MjcxODc2MBUCABIYIDlFOTdDMjU3NUJFQjczRTlGQ0U4RTJDOTJBMkFDRUIyAA==",
+                "timestamp": "1755109649",
+                "text": {
+                  "body": "1637263546372635"
+                },
+                "type": "text"
+              }
+            ]
+          },
+          "field": "messages"
+        }
+      ]
+    }
+  ]
+}2025-08-13T18:29:29.008Z - Webhook meta post error: TypeError: Cannot read properties of undefined (reading 'from')
+{
+  "object": "whatsapp_business_account",
+  "entry": [
+    {
+      "id": "757160460093090",
+      "changes": [
+        {
+          "value": {
+            "messaging_product": "whatsapp",
+            "metadata": {
+              "display_phone_number": "15556663692",
+              "phone_number_id": "688394194362541"
+            },
+            "statuses": [
+              {
+                "id": "wamid.HBgNNTIxNjE4MjcxODc2MBUCABEYEjg1QUJCMzdFQzI4MTRCMjY0MAA=",
+                "status": "sent",
+                "timestamp": "1755109769",
+                "recipient_id": "5216182718760",
+                "conversation": {
+                  "id": "76911f41a413297672f42cddb2bdc494",
+                  "expiration_timestamp": "1755109769",
+                  "origin": {
+                    "type": "utility"
+                  }
+                },
+                "pricing": {
+                  "billable": false,
+                  "pricing_model": "PMP",
+                  "category": "utility",
+                  "type": "free_customer_service"
+                }
+              }
+            ]
+          },
+          "field": "messages"
+        }
+      ]
+    }
+  ]
+}2025-08-13T18:29:29.018Z - Webhook meta post error: TypeError: Cannot read properties of undefined (reading 'from')
+{
+  "object": "whatsapp_business_account",
+  "entry": [
+    {
+      "id": "757160460093090",
+      "changes": [
+        {
+          "value": {
+            "messaging_product": "whatsapp",
+            "metadata": {
+              "display_phone_number": "15556663692",
+              "phone_number_id": "688394194362541"
+            },
+            "statuses": [
+              {
+                "id": "wamid.HBgNNTIxNjE4MjcxODc2MBUCABEYEjg1QUJCMzdFQzI4MTRCMjY0MAA=",
+                "status": "read",
+                "timestamp": "1755109769",
+                "recipient_id": "5216182718760",
+                "conversation": {
+                  "id": "76911f41a413297672f42cddb2bdc494",
+                  "origin": {
+                    "type": "utility"
+                  }
+                },
+                "pricing": {
+                  "billable": false,
+                  "pricing_model": "PMP",
+                  "category": "utility",
+                  "type": "free_customer_service"
+                }
+              }
+            ]
+          },
+          "field": "messages"
+        }
+      ]
+    }
+  ]
+}2025-08-16T06:09:29.241Z - Webhook meta post error: TypeError: Cannot read properties of undefined (reading 'from')
+{
+  "object": "whatsapp_business_account",
+  "entry": [
+    {
+      "id": "757160460093090",
+      "changes": [
+        {
+          "value": {
+            "messaging_product": "whatsapp",
+            "metadata": {
+              "display_phone_number": "15556663692",
+              "phone_number_id": "688394194362541"
+            },
+            "statuses": [
+              {
+                "id": "wamid.HBgNNTIxNjE4MjcxODc2MBUCABEYEjkyQzNFMkRDOTA1REVEOENCMQA=",
+                "status": "sent",
+                "timestamp": "1755324568",
+                "recipient_id": "5216182718760",
+                "conversation": {
+                  "id": "be0aa03363487576de044583d6fae1fa",
+                  "expiration_timestamp": "1755324568",
+                  "origin": {
+                    "type": "marketing"
+                  }
+                },
+                "pricing": {
+                  "billable": true,
+                  "pricing_model": "PMP",
+                  "category": "marketing",
+                  "type": "regular"
+                }
+              }
+            ]
+          },
+          "field": "messages"
+        }
+      ]
+    }
+  ]
+}2025-08-16T06:09:29.829Z - Webhook meta post error: TypeError: Cannot read properties of undefined (reading 'from')
+{
+  "object": "whatsapp_business_account",
+  "entry": [
+    {
+      "id": "757160460093090",
+      "changes": [
+        {
+          "value": {
+            "messaging_product": "whatsapp",
+            "metadata": {
+              "display_phone_number": "15556663692",
+              "phone_number_id": "688394194362541"
+            },
+            "statuses": [
+              {
+                "id": "wamid.HBgNNTIxNjE4MjcxODc2MBUCABEYEjkyQzNFMkRDOTA1REVEOENCMQA=",
+                "status": "read",
+                "timestamp": "1755324568",
+                "recipient_id": "5216182718760",
+                "conversation": {
+                  "id": "be0aa03363487576de044583d6fae1fa",
+                  "origin": {
+                    "type": "marketing"
+                  }
+                },
+                "pricing": {
+                  "billable": true,
+                  "pricing_model": "PMP",
+                  "category": "marketing",
+                  "type": "regular"
+                }
+              }
+            ]
+          },
+          "field": "messages"
+        }
+      ]
+    }
+  ]
+}2025-08-16T06:09:29.870Z - Webhook meta post error: TypeError: Cannot read properties of undefined (reading 'from')
+{
+  "object": "whatsapp_business_account",
+  "entry": [
+    {
+      "id": "757160460093090",
+      "changes": [
+        {
+          "value": {
+            "messaging_product": "whatsapp",
+            "metadata": {
+              "display_phone_number": "15556663692",
+              "phone_number_id": "688394194362541"
+            },
+            "statuses": [
+              {
+                "id": "wamid.HBgNNTIxNjE4MjcxODc2MBUCABEYEjk4RERCNzNBNTA2QTg3NzBFMgA=",
+                "status": "sent",
+                "timestamp": "1755324568",
+                "recipient_id": "5216182718760",
+                "conversation": {
+                  "id": "33c580ce127d84abdccb56de5c649d6c",
+                  "expiration_timestamp": "1755324568",
+                  "origin": {
+                    "type": "marketing"
+                  }
+                },
+                "pricing": {
+                  "billable": true,
+                  "pricing_model": "PMP",
+                  "category": "marketing",
+                  "type": "regular"
+                }
+              }
+            ]
+          },
+          "field": "messages"
+        }
+      ]
+    }
+  ]
+}2025-08-16T06:09:30.068Z - Webhook meta post error: TypeError: Cannot read properties of undefined (reading 'from')
+{
+  "object": "whatsapp_business_account",
+  "entry": [
+    {
+      "id": "757160460093090",
+      "changes": [
+        {
+          "value": {
+            "messaging_product": "whatsapp",
+            "metadata": {
+              "display_phone_number": "15556663692",
+              "phone_number_id": "688394194362541"
+            },
+            "statuses": [
+              {
+                "id": "wamid.HBgNNTIxNjE4MjcxODc2MBUCABEYEjk4RERCNzNBNTA2QTg3NzBFMgA=",
+                "status": "read",
+                "timestamp": "1755324569",
+                "recipient_id": "5216182718760",
+                "conversation": {
+                  "id": "33c580ce127d84abdccb56de5c649d6c",
+                  "origin": {
+                    "type": "marketing"
+                  }
+                },
+                "pricing": {
+                  "billable": true,
+                  "pricing_model": "PMP",
+                  "category": "marketing",
+                  "type": "regular"
+                }
+              }
+            ]
+          },
+          "field": "messages"
+        }
+      ]
+    }
+  ]
+}2025-08-16T06:20:25.306Z - Webhook meta post error: TypeError: Cannot read properties of undefined (reading 'from')
+{
+  "object": "whatsapp_business_account",
+  "entry": [
+    {
+      "id": "757160460093090",
+      "changes": [
+        {
+          "value": {
+            "messaging_product": "whatsapp",
+            "metadata": {
+              "display_phone_number": "15556663692",
+              "phone_number_id": "688394194362541"
+            },
+            "statuses": [
+              {
+                "id": "wamid.HBgNNTIxNjE4MjcxODc2MBUCABEYEjE4RkQ0QTBBOEIzNEYyOTA3RQA=",
+                "status": "sent",
+                "timestamp": "1755325224",
+                "recipient_id": "5216182718760",
+                "conversation": {
+                  "id": "77fe6cb31de4bf1bdae0499a476ce1af",
+                  "expiration_timestamp": "1755325224",
+                  "origin": {
+                    "type": "utility"
+                  }
+                },
+                "pricing": {
+                  "billable": false,
+                  "pricing_model": "PMP",
+                  "category": "utility",
+                  "type": "free_customer_service"
+                }
+              }
+            ]
+          },
+          "field": "messages"
+        }
+      ]
+    }
+  ]
+}2025-08-16T06:20:25.804Z - Webhook meta post error: TypeError: Cannot read properties of undefined (reading 'from')
+{
+  "object": "whatsapp_business_account",
+  "entry": [
+    {
+      "id": "757160460093090",
+      "changes": [
+        {
+          "value": {
+            "messaging_product": "whatsapp",
+            "metadata": {
+              "display_phone_number": "15556663692",
+              "phone_number_id": "688394194362541"
+            },
+            "statuses": [
+              {
+                "id": "wamid.HBgNNTIxNjE4MjcxODc2MBUCABEYEjE4RkQ0QTBBOEIzNEYyOTA3RQA=",
+                "status": "read",
+                "timestamp": "1755325225",
+                "recipient_id": "5216182718760",
+                "conversation": {
+                  "id": "77fe6cb31de4bf1bdae0499a476ce1af",
+                  "origin": {
+                    "type": "utility"
+                  }
+                },
+                "pricing": {
+                  "billable": false,
+                  "pricing_model": "PMP",
+                  "category": "utility",
+                  "type": "free_customer_service"
+                }
+              }
+            ]
+          },
+          "field": "messages"
+        }
+      ]
+    }
+  ]
+}2025-08-16T06:28:20.469Z - Webhook meta post error: ReferenceError: from is not defined
+{
+  "object": "whatsapp_business_account",
+  "entry": [
+    {
+      "id": "757160460093090",
+      "changes": [
+        {
+          "value": {
+            "messaging_product": "whatsapp",
+            "metadata": {
+              "display_phone_number": "15556663692",
+              "phone_number_id": "688394194362541"
+            },
+            "contacts": [
+              {
+                "profile": {
+                  "name": "Emanuel"
+                },
+                "wa_id": "5216182718760"
+              }
+            ],
+            "messages": [
+              {
+                "from": "5216182718760",
+                "id": "wamid.HBgNNTIxNjE4MjcxODc2MBUCABIYIDkzNDQyNENCMjc2RTk3MEVDOTg3MzM4RjNBQjkyN0FBAA==",
+                "timestamp": "1755325699",
+                "text": {
+                  "body": "1637263546372635"
+                },
+                "type": "text"
+              }
+            ]
+          },
+          "field": "messages"
+        }
+      ]
+    }
+  ]
+}2025-08-16T06:29:34.202Z - Webhook meta post error: ReferenceError: Cannot access 'from' before initialization
+{
+  "object": "whatsapp_business_account",
+  "entry": [
+    {
+      "id": "757160460093090",
+      "changes": [
+        {
+          "value": {
+            "messaging_product": "whatsapp",
+            "metadata": {
+              "display_phone_number": "15556663692",
+              "phone_number_id": "688394194362541"
+            },
+            "contacts": [
+              {
+                "profile": {
+                  "name": "Emanuel"
+                },
+                "wa_id": "5216182718760"
+              }
+            ],
+            "messages": [
+              {
+                "from": "5216182718760",
+                "id": "wamid.HBgNNTIxNjE4MjcxODc2MBUCABIYIDJCNjNCQjY3MTU1NzQ0OTEwOEE5OThBRTM2NzhDMEQ0AA==",
+                "timestamp": "1755325773",
+                "text": {
+                  "body": "1637263546372635"
+                },
+                "type": "text"
+              }
+            ]
+          },
+          "field": "messages"
+        }
+      ]
+    }
+  ]
+}2025-08-16T06:31:18.491Z - Webhook meta post error: ReferenceError: value is not defined
+{
+  "object": "whatsapp_business_account",
+  "entry": [
+    {
+      "id": "757160460093090",
+      "changes": [
+        {
+          "value": {
+            "messaging_product": "whatsapp",
+            "metadata": {
+              "display_phone_number": "15556663692",
+              "phone_number_id": "688394194362541"
+            },
+            "contacts": [
+              {
+                "profile": {
+                  "name": "Emanuel"
+                },
+                "wa_id": "5216182718760"
+              }
+            ],
+            "messages": [
+              {
+                "from": "5216182718760",
+                "id": "wamid.HBgNNTIxNjE4MjcxODc2MBUCABIYIDlFNTIxNDhDNjVGM0RGRjVDNDQxOEQzNjg3NTA0MjhBAA==",
+                "timestamp": "1755325877",
+                "text": {
+                  "body": "1637263546372635"
+                },
+                "type": "text"
+              }
+            ]
+          },
+          "field": "messages"
+        }
+      ]
+    }
+  ]
+}2025-08-16T06:32:38.935Z - Webhook meta post error: ReferenceError: changes is not defined
+{
+  "object": "whatsapp_business_account",
+  "entry": [
+    {
+      "id": "757160460093090",
+      "changes": [
+        {
+          "value": {
+            "messaging_product": "whatsapp",
+            "metadata": {
+              "display_phone_number": "15556663692",
+              "phone_number_id": "688394194362541"
+            },
+            "contacts": [
+              {
+                "profile": {
+                  "name": "Emanuel"
+                },
+                "wa_id": "5216182718760"
+              }
+            ],
+            "messages": [
+              {
+                "from": "5216182718760",
+                "id": "wamid.HBgNNTIxNjE4MjcxODc2MBUCABIYIEI5NzYzREM4QTAyRUFCNzBFMDA3QTNEMzdBQjc3RDkwAA==",
+                "timestamp": "1755325957",
+                "text": {
+                  "body": "1637263546372635"
+                },
+                "type": "text"
+              }
+            ]
+          },
+          "field": "messages"
+        }
+      ]
+    }
+  ]
+}2025-08-16T06:33:52.702Z - Webhook meta post error: ReferenceError: message is not defined
+{
+  "object": "whatsapp_business_account",
+  "entry": [
+    {
+      "id": "757160460093090",
+      "changes": [
+        {
+          "value": {
+            "messaging_product": "whatsapp",
+            "metadata": {
+              "display_phone_number": "15556663692",
+              "phone_number_id": "688394194362541"
+            },
+            "contacts": [
+              {
+                "profile": {
+                  "name": "Emanuel"
+                },
+                "wa_id": "5216182718760"
+              }
+            ],
+            "messages": [
+              {
+                "from": "5216182718760",
+                "id": "wamid.HBgNNTIxNjE4MjcxODc2MBUCABIYIDYzNTlBRTAwMkIzQjI5MTU0MkM3MzEwNzg1QzM1QjIxAA==",
+                "timestamp": "1755326031",
+                "text": {
+                  "body": "1637263546372635"
+                },
+                "type": "text"
+              }
+            ]
+          },
+          "field": "messages"
+        }
+      ]
+    }
+  ]
+}2025-08-16T06:35:47.718Z - Webhook meta post error: TypeError: Cannot read properties of undefined (reading '0')
+{
+  "object": "whatsapp_business_account",
+  "entry": [
+    {
+      "id": "757160460093090",
+      "changes": [
+        {
+          "value": {
+            "messaging_product": "whatsapp",
+            "metadata": {
+              "display_phone_number": "15556663692",
+              "phone_number_id": "688394194362541"
+            },
+            "statuses": [
+              {
+                "id": "wamid.HBgNNTIxNjE4MjcxODc2MBUCABEYEkZFMzkzQTYwRDE5MDFGNEFEMAA=",
+                "status": "sent",
+                "timestamp": "1755326146",
+                "recipient_id": "5216182718760",
+                "conversation": {
+                  "id": "b96fc1fd2777616e02d4d7154cc49adc",
+                  "expiration_timestamp": "1755326146",
+                  "origin": {
+                    "type": "marketing"
+                  }
+                },
+                "pricing": {
+                  "billable": true,
+                  "pricing_model": "PMP",
+                  "category": "marketing",
+                  "type": "regular"
+                }
+              }
+            ]
+          },
+          "field": "messages"
+        }
+      ]
+    }
+  ]
+}2025-08-16T06:35:49.813Z - Webhook meta post error: TypeError: Cannot read properties of undefined (reading '0')
+{
+  "object": "whatsapp_business_account",
+  "entry": [
+    {
+      "id": "757160460093090",
+      "changes": [
+        {
+          "value": {
+            "messaging_product": "whatsapp",
+            "metadata": {
+              "display_phone_number": "15556663692",
+              "phone_number_id": "688394194362541"
+            },
+            "statuses": [
+              {
+                "id": "wamid.HBgNNTIxNjE4MjcxODc2MBUCABEYEkZFMzkzQTYwRDE5MDFGNEFEMAA=",
+                "status": "read",
+                "timestamp": "1755326149",
+                "recipient_id": "5216182718760",
+                "conversation": {
+                  "id": "b96fc1fd2777616e02d4d7154cc49adc",
+                  "origin": {
+                    "type": "marketing"
+                  }
+                },
+                "pricing": {
+                  "billable": true,
+                  "pricing_model": "PMP",
+                  "category": "marketing",
+                  "type": "regular"
+                }
+              }
+            ]
+          },
+          "field": "messages"
+        }
+      ]
+    }
+  ]
+}
