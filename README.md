@@ -6,7 +6,7 @@ in a few steps is solved
 This chatbot allows to your users to make both actions, consults of their accounts
 and make payments
 
-<img src="docs/assets/demo_consulta.gif" alt="Demo del chatbot" width="400"/>
+<img src="docs/assets/demo_consulta.gif" alt="Demo del chatbot" width="250"/>
 
 # Installation and Usage Guide
 
