@@ -1,0 +1,42 @@
+CREATE TABLE users (
+  id INTEGER PRIMARY KEY AUTO_INCREMENT,
+  account_num_id INTEGER NOT NULL UNIQUE,
+  name1 VARCHAR(30) NOT NULL,
+  name2 VARCHAR(30),
+  lastname1 VARCHAR(30) NOT NULL,
+  lastname2 VARCHAR(30),
+  address VARCHAR(100) NOT NULL,
+  status ENUM('active', 'inactive') NOT NULL DEFAULT 'active'
+);
+
+CREATE TABLE account_numbers (
+  id INTEGER PRIMARY KEY AUTO_INCREMENT,
+  num VARCHAR(16) NOT NULL UNIQUE,
+  status ENUM('active', 'inactive') NOT NULL DEFAULT 'active'
+);
+
+CREATE TABLE debts (
+  id INTEGER PRIMARY KEY AUTO_INCREMENT,
+  quantity DECIMAL NOT NULL,
+  account_num_id INTEGER NOT NULL,
+  paid BOOLEAN NOT NULL,
+  debt_date TIMESTAMP DEFAULT CURRENT_TIMESTAMP
+);
+
+CREATE TABLE payments (
+  id INTEGER PRIMARY KEY AUTO_INCREMENT,
+  debt_id INTEGER NOT NULL,
+  payment_date TIMESTAMP DEFAULT CURRENT_TIMESTAMP
+);
+
+CREATE TABLE status (
+  id INTEGER PRIMARY KEY AUTO_INCREMENT,
+  num VARCHAR(20) UNIQUE NOT NULL,
+  status VARCHAR(20) NOT NULL  
+);
+
+ALTER TABLE users ADD FOREIGN KEY (account_num_id) REFERENCES account_numbers (id);
+
+ALTER TABLE debts ADD FOREIGN KEY (account_num_id) REFERENCES account_numbers (id);
+
+ALTER TABLE payments ADD FOREIGN KEY (debt_id) REFERENCES debts (id);
