@@ -1,4 +1,14 @@
-# 🤖 SINAGUA Project --- Installation and Usage Guide
+# 🤖 SINAGUA Project
+
+With SINAGUA project the needs of your clients of make a payment
+in a few steps is solved
+
+This chatbot allows to your users to make both actions, consults of their accounts
+and make payments
+
+![Demo de consulta de cuenta](docs/assets/demo_consulta.gif)
+
+# Installation and Usage Guide
 
 ## 📦 Required Dependencies
 
@@ -88,7 +98,7 @@ ngrok start --all
 
 ### 6️⃣ Update ngrok URLs
 
-Edit the `.env` file located in the `Frontend` directory with the
+Edit the `.env` file located in the `Frontend` directory and `APU` with the
 generated URLs.
 
 ------------------------------------------------------------------------
